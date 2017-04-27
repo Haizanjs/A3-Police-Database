@@ -1,4 +1,4 @@
-# A3-Police-Database
+# Arma Police Database
 ## Build Version 1.1.2
 ### Created by Colton Brister
 

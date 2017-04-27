@@ -98,6 +98,10 @@ if(isset($_POST['cmn'])) {
 										</div>
 									</div>
                                     </form>
+									<div class="form-group col-12" style="border:double">
+										<h3>Need Help or want something custom?</h3>
+										<p>While I may not be continuing work on this project, I still help when needed. If you have a question or need to report a bug, feel free to shoot me an email. If you’re interested in having a custom feature made, feel free to email me as well, of course though there is a price to be paid for custom work.<br><strong>contact@coltonbrister.com</strong><br>Please also make sure you read the <a href="https://github.com/ColeB97/A3-Police-Database/blob/master/documentation.md" target="_blank">Documentation</a></p>
+									</div>
                                     </div>
 								</div>
 							</article>
