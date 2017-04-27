@@ -1,6 +1,7 @@
 # Arma Police Database
 ## Build Version 1.1.2
 ### Created by Colton Brister
+### Documentation: https://github.com/ColeB97/A3-Police-Database/wiki
 
 This project was started in 2015 for the game server, Life-Studios. Over time I slowly built it up to what it is today, it was a huge learning tool for me and has helped me get to where I am today. Without the help of Scott Harm I would have never been able to complete it.
 
