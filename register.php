@@ -1,6 +1,6 @@
 <!DOCTYPE HTML>
 <?php
-
+require_once("php_includes/base.inc.php");
 $cminfo = getInfo("cminfo");
 $cminfo = json_decode($cminfo['data'], true);
 

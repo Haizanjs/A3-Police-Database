@@ -52,7 +52,7 @@ $cminfo = json_decode($cminfo['data'], true);
 					<div id="heading" class="row">
 						<div class="col-12">
 							<header>
-								<h1>Website Changelog - Build Version 1.1.2</h1>
+								<h1>Website Changelog - Build Version 1.1.3</h1>
 							</header>
 						</div>
 					</div>

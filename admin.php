@@ -26,10 +26,10 @@ if(isset($_POST['cmn'])) {
 
 		<!-- Meta -->
 		<meta charset="UTF-8">
-		<title><?php echo $info['pda']; ?> - Command Dashboard</title>
+		<title><?php echo $info['pda']; ?> - Admin Dashboard</title>
         <script src="js/jquery-2.1.4.min.js"></script>
 		<script src="js/Chart.js"></script>
-		<meta name="description" content="<?php echo $info['pdn']; ?> - Command Dashboard">
+		<meta name="description" content="<?php echo $info['pdn']; ?> - Admin Dashboard">
 		<meta name="author" content="Cole Banks, Scott Harm (Retired)">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
