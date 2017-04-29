@@ -1,5 +1,5 @@
 # Arma Police Database
-## Build Version 1.1.2
+## Build Version 1.1.3
 ### Created by Colton Brister
 ### Documentation: https://github.com/ColeB97/A3-Police-Database/wiki
 
